@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Minhas atividades no github esse ano são:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Amanda-Quirino&theme=highcontrast&show_icons=true&count_private=true)
+
+### Minhas principais linguagesn são:
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Quirino&layout=compact)
