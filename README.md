@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Amanda-Quirino&theme=highcontrast&show_icons=true&count_private=true)
 
 ### Minhas principais linguagesn são:
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Quirino&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Quirino&layout=compact&count_private=true)
